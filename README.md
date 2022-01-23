@@ -1,1 +1,3 @@
 # AUOH_tuntikoodausMR
+
+-testi
