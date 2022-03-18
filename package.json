@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "ngrok": "^4.3.0"
+  },
+  "name": "auoh_tuntikoodausmr",
+  "description": "-testi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Makro91/AUOH_tuntikoodausMR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Makro91/AUOH_tuntikoodausMR/issues"
+  },
+  "homepage": "https://github.com/Makro91/AUOH_tuntikoodausMR#readme"
+}
